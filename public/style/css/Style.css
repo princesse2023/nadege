@@ -1,0 +1,12 @@
+.fixNav {
+    position: sticky;
+    z-index: 10;
+    top: 0px;
+}
+ .entetetab {
+     overflow: scroll !important;
+ }
+
+ .fondregister{
+    background-color:#808080 !important
+ } 
